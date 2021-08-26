@@ -1,0 +1,49 @@
+C:\Users\Leticia Morais\Desktop\AnotaAi\ApiRestaurante\ApiRestaurante\bin\ApiRestaurante.dll.config
+C:\Users\Leticia Morais\Desktop\AnotaAi\ApiRestaurante\ApiRestaurante\bin\ApiRestaurante.dll
+C:\Users\Leticia Morais\Desktop\AnotaAi\ApiRestaurante\ApiRestaurante\bin\ApiRestaurante.pdb
+C:\Users\Leticia Morais\Desktop\AnotaAi\ApiRestaurante\ApiRestaurante\bin\EntityFramework.dll
+C:\Users\Leticia Morais\Desktop\AnotaAi\ApiRestaurante\ApiRestaurante\bin\EntityFramework.SqlServer.dll
+C:\Users\Leticia Morais\Desktop\AnotaAi\ApiRestaurante\ApiRestaurante\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Leticia Morais\Desktop\AnotaAi\ApiRestaurante\ApiRestaurante\bin\Newtonsoft.Json.dll
+C:\Users\Leticia Morais\Desktop\AnotaAi\ApiRestaurante\ApiRestaurante\bin\System.Net.Http.Formatting.dll
+C:\Users\Leticia Morais\Desktop\AnotaAi\ApiRestaurante\ApiRestaurante\bin\System.Web.Http.dll
+C:\Users\Leticia Morais\Desktop\AnotaAi\ApiRestaurante\ApiRestaurante\bin\System.Web.Http.WebHost.dll
+C:\Users\Leticia Morais\Desktop\AnotaAi\ApiRestaurante\ApiRestaurante\bin\EntityFramework.xml
+C:\Users\Leticia Morais\Desktop\AnotaAi\ApiRestaurante\ApiRestaurante\bin\EntityFramework.SqlServer.xml
+C:\Users\Leticia Morais\Desktop\AnotaAi\ApiRestaurante\ApiRestaurante\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Leticia Morais\Desktop\AnotaAi\ApiRestaurante\ApiRestaurante\bin\Newtonsoft.Json.xml
+C:\Users\Leticia Morais\Desktop\AnotaAi\ApiRestaurante\ApiRestaurante\bin\System.Net.Http.Formatting.xml
+C:\Users\Leticia Morais\Desktop\AnotaAi\ApiRestaurante\ApiRestaurante\bin\System.Web.Http.xml
+C:\Users\Leticia Morais\Desktop\AnotaAi\ApiRestaurante\ApiRestaurante\bin\System.Web.Http.WebHost.xml
+C:\Users\Leticia Morais\Desktop\AnotaAi\ApiRestaurante\ApiRestaurante\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\Leticia Morais\Desktop\AnotaAi\ApiRestaurante\ApiRestaurante\bin\pt-br\System.Web.Http.resources.dll
+C:\Users\Leticia Morais\Desktop\AnotaAi\ApiRestaurante\ApiRestaurante\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\Leticia Morais\Desktop\AnotaAi\ApiRestaurante\ApiRestaurante\obj\Debug\ApiRestaurante.csprojResolveAssemblyReference.cache
+C:\Users\Leticia Morais\Desktop\AnotaAi\ApiRestaurante\ApiRestaurante\obj\Debug\ApiRestaurante.csproj.CoreCompileInputs.cache
+C:\Users\Leticia Morais\Desktop\AnotaAi\ApiRestaurante\ApiRestaurante\obj\Debug\ApiRestaurante.dll
+C:\Users\Leticia Morais\Desktop\AnotaAi\ApiRestaurante\ApiRestaurante\obj\Debug\ApiRestaurante.pdb
+D:\Ciencia da Computação\Aulas - Periodos\8º Periodo\Sistemas Distribuidos\AnotaAi\ApiRestaurante\ApiRestaurante\bin\ApiRestaurante.dll.config
+D:\Ciencia da Computação\Aulas - Periodos\8º Periodo\Sistemas Distribuidos\AnotaAi\ApiRestaurante\ApiRestaurante\bin\ApiRestaurante.dll
+D:\Ciencia da Computação\Aulas - Periodos\8º Periodo\Sistemas Distribuidos\AnotaAi\ApiRestaurante\ApiRestaurante\bin\ApiRestaurante.pdb
+D:\Ciencia da Computação\Aulas - Periodos\8º Periodo\Sistemas Distribuidos\AnotaAi\ApiRestaurante\ApiRestaurante\bin\EntityFramework.dll
+D:\Ciencia da Computação\Aulas - Periodos\8º Periodo\Sistemas Distribuidos\AnotaAi\ApiRestaurante\ApiRestaurante\bin\EntityFramework.SqlServer.dll
+D:\Ciencia da Computação\Aulas - Periodos\8º Periodo\Sistemas Distribuidos\AnotaAi\ApiRestaurante\ApiRestaurante\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Ciencia da Computação\Aulas - Periodos\8º Periodo\Sistemas Distribuidos\AnotaAi\ApiRestaurante\ApiRestaurante\bin\Newtonsoft.Json.dll
+D:\Ciencia da Computação\Aulas - Periodos\8º Periodo\Sistemas Distribuidos\AnotaAi\ApiRestaurante\ApiRestaurante\bin\System.Net.Http.Formatting.dll
+D:\Ciencia da Computação\Aulas - Periodos\8º Periodo\Sistemas Distribuidos\AnotaAi\ApiRestaurante\ApiRestaurante\bin\System.Web.Http.dll
+D:\Ciencia da Computação\Aulas - Periodos\8º Periodo\Sistemas Distribuidos\AnotaAi\ApiRestaurante\ApiRestaurante\bin\System.Web.Http.WebHost.dll
+D:\Ciencia da Computação\Aulas - Periodos\8º Periodo\Sistemas Distribuidos\AnotaAi\ApiRestaurante\ApiRestaurante\bin\EntityFramework.xml
+D:\Ciencia da Computação\Aulas - Periodos\8º Periodo\Sistemas Distribuidos\AnotaAi\ApiRestaurante\ApiRestaurante\bin\EntityFramework.SqlServer.xml
+D:\Ciencia da Computação\Aulas - Periodos\8º Periodo\Sistemas Distribuidos\AnotaAi\ApiRestaurante\ApiRestaurante\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Ciencia da Computação\Aulas - Periodos\8º Periodo\Sistemas Distribuidos\AnotaAi\ApiRestaurante\ApiRestaurante\bin\Newtonsoft.Json.xml
+D:\Ciencia da Computação\Aulas - Periodos\8º Periodo\Sistemas Distribuidos\AnotaAi\ApiRestaurante\ApiRestaurante\bin\System.Net.Http.Formatting.xml
+D:\Ciencia da Computação\Aulas - Periodos\8º Periodo\Sistemas Distribuidos\AnotaAi\ApiRestaurante\ApiRestaurante\bin\System.Web.Http.xml
+D:\Ciencia da Computação\Aulas - Periodos\8º Periodo\Sistemas Distribuidos\AnotaAi\ApiRestaurante\ApiRestaurante\bin\System.Web.Http.WebHost.xml
+D:\Ciencia da Computação\Aulas - Periodos\8º Periodo\Sistemas Distribuidos\AnotaAi\ApiRestaurante\ApiRestaurante\bin\pt-br\System.Net.Http.Formatting.resources.dll
+D:\Ciencia da Computação\Aulas - Periodos\8º Periodo\Sistemas Distribuidos\AnotaAi\ApiRestaurante\ApiRestaurante\bin\pt-br\System.Web.Http.resources.dll
+D:\Ciencia da Computação\Aulas - Periodos\8º Periodo\Sistemas Distribuidos\AnotaAi\ApiRestaurante\ApiRestaurante\bin\pt-br\System.Web.Http.WebHost.resources.dll
+D:\Ciencia da Computação\Aulas - Periodos\8º Periodo\Sistemas Distribuidos\AnotaAi\ApiRestaurante\ApiRestaurante\obj\Debug\ApiRestaurante.csproj.AssemblyReference.cache
+D:\Ciencia da Computação\Aulas - Periodos\8º Periodo\Sistemas Distribuidos\AnotaAi\ApiRestaurante\ApiRestaurante\obj\Debug\ApiRestaurante.csproj.CoreCompileInputs.cache
+D:\Ciencia da Computação\Aulas - Periodos\8º Periodo\Sistemas Distribuidos\AnotaAi\ApiRestaurante\ApiRestaurante\obj\Debug\ApiRestaurante.csproj.CopyComplete
+D:\Ciencia da Computação\Aulas - Periodos\8º Periodo\Sistemas Distribuidos\AnotaAi\ApiRestaurante\ApiRestaurante\obj\Debug\ApiRestaurante.dll
+D:\Ciencia da Computação\Aulas - Periodos\8º Periodo\Sistemas Distribuidos\AnotaAi\ApiRestaurante\ApiRestaurante\obj\Debug\ApiRestaurante.pdb
