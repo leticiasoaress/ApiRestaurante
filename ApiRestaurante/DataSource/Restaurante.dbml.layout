@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="Restaurante">
+  <DataContextMoniker Name="/RestauranteDataContext" />
+  <nestedChildShapes>
+    <classShape Id="176df95b-4e4f-4504-8adf-5f9e9d8d9515" isExpanded="false" absoluteBounds="3.75, 1.125, 2, 0.45">
+      <DataClassMoniker Name="/RestauranteDataContext/VW_LISTAR_INFORMACOES" />
+      <nestedChildShapes>
+        <elementListCompartment Id="765cd03d-d26e-45e2-8df3-47c459cac503" absoluteBounds="3.7649999999999997, 1.585, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="be811521-2d3e-4169-a137-49e2e5150a77" absoluteBounds="6, 1, 2, 2.5401025390625">
+      <DataClassMoniker Name="/RestauranteDataContext/VW_LISTA_ITEM_PEDIDO" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b3bb54ed-8b5c-4f7b-b32f-73ca5711e4b8" absoluteBounds="6.015, 1.46, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

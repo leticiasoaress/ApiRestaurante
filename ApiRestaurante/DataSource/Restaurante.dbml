@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="RESTAURANTE" Class="RestauranteDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="WebSettings" ConnectionString="Data Source=LETICIA-PC\SQLEXPRESS;Initial Catalog=RESTAURANTE;Persist Security Info=True;User ID=RestauranteApi" SettingsObjectName="System.Configuration.ConfigurationManager.ConnectionStrings" SettingsPropertyName="RESTAURANTEConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.VW_LISTAR_INFORMACOES" Member="VW_LISTAR_INFORMACOES">
+    <Type Name="VW_LISTAR_INFORMACOES">
+      <Column Name="NOME" Type="System.String" DbType="VarChar(500) NOT NULL" CanBeNull="false" />
+      <Column Name="CPF" Type="System.String" DbType="VarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="DT_NASCIMENTO" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="ID_PEDIDO" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="NR_MESA" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="VL_TOTAL" Type="System.Decimal" DbType="Decimal(18,2) NOT NULL" CanBeNull="false" />
+      <Column Name="DT_CREATE" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.VW_LISTA_ITEM_PEDIDO" Member="VW_LISTA_ITEM_PEDIDO">
+    <Type Name="VW_LISTA_ITEM_PEDIDO">
+      <Column Name="CLIENTE" Type="System.String" DbType="VarChar(500) NOT NULL" CanBeNull="false" />
+      <Column Name="CPF" Type="System.String" DbType="VarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="DT_NASCIMENTO" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="ID_ITEMPEDIDO" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="ID_PEDIDO" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="PRODUTO" Type="System.String" DbType="VarChar(500) NOT NULL" CanBeNull="false" />
+      <Column Name="[QTD PEDIDO]" Member="QTD_PEDIDO" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="VL_PRODUTO" Type="System.Decimal" DbType="Decimal(18,2)" CanBeNull="true" />
+      <Column Name="VALORTOTAL" Type="System.Decimal" DbType="Decimal(29,2)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>
